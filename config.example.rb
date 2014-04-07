@@ -1,0 +1,5 @@
+@dbtype = "mysql"
+@host = "localhost"
+@user = "rbac"
+@pass = "rbac"
+@database = "rbac"
